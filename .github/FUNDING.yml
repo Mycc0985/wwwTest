@@ -9,4 +9,5 @@ liberapay: # Replace with a single Liberapay username
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
 lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
-custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+custom: # Replace with up to 4 custom sponsorship URLs e.g., ['https://donatepay.ru/don/Mycc', 'https://widget.donatepay.ru/widgets/page/e7fd74b0d7f2fa7f4e6f05b359be7a96de92aa91843ea433b9315846f0afec76?widget_id=3112830&sum=200']
+
